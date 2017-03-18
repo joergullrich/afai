@@ -1,0 +1,2 @@
+# afai
+Ansible FAI Playbook
